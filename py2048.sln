@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py2048", "py2048\py2048.pyproj", "{46FAA783-C1C7-418A-A9BA-49489D8EA6CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46FAA783-C1C7-418A-A9BA-49489D8EA6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46FAA783-C1C7-418A-A9BA-49489D8EA6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C369661D-9CAD-40E9-A737-392ABA5E8BF7}
+	EndGlobalSection
+EndGlobal
